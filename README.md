@@ -1,5 +1,3 @@
-# Arqam.github.io
-
 # 🌐 Personal Portfolio Website
 
 🚀 Welcome to my personal portfolio website!  
@@ -29,9 +27,7 @@ This website showcases my skills, certifications, projects, and vision as a Comp
 - Internet of Things  
 - Data Analytics
 
-## 🌍 Live Website
-
-👉 Visit Here: # 🌐 Personal Portfolio Website
+## 🌍 Website Info
 
 🚀 Welcome to my personal portfolio website!  
 This website showcases my skills, certifications, projects, and vision as a Computer Science student passionate about AI, Data Science, and Software Development.
@@ -57,7 +53,7 @@ This website showcases my skills, certifications, projects, and vision as a Comp
 - Data Science with Python  
 - Machine Learning & Deep Learning  
 - Internet of Things  
-- Cybersecurity & Database Technologies  
+- Data Analytics 
 
 ## 🌍 Live Website
 
